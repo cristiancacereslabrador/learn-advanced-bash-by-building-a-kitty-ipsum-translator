@@ -109,3 +109,6 @@ echo Cristian
 ./script.sh < stderr.txt
 ./script.sh 2 < name.txt > stderr.txt
 ./script.sh 2 < name.txt > stderr.txt > stdout.txt
+cat kitty_ipsum.txt
+cat kitty_ipsum1.txt
+cat kitty_ipsum_1.txt
