@@ -88,3 +88,5 @@ read NADME < name.txt
 read NAME < name.txt
 echo $NAME
 echo CRISTIAN
+echo $name
+echo $NAME
