@@ -95,3 +95,4 @@ cat
 cat name.txt
 cat < name.txt
 echo Cristian
+touch script.sh
