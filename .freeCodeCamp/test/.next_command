@@ -105,3 +105,4 @@ echo Cristian
 echo Cristian
 echo Cristian
 echo Cristian
+./script.sh < name.txt
