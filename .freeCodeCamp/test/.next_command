@@ -82,3 +82,7 @@ read NAME
 echo $NAME
 echo $NAME > stdout.txt
 echo freeCodeCamp > name.txt
+read NADME=next.txt
+read NADME < next.txt
+read NADME < name.txt
+read NAME < name.txt
