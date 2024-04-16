@@ -175,3 +175,4 @@ sed 'sfreecodecamp/f233C0d3C@mp'' name.txt sed 'sfreecodecamp/f233C0d3C@mp'' nam
 sed 'sfreecodecamp/f233C0d3C@mp'' name.txt sed 's/freecodecamp/f233C0d3C@mp'' name.txt
 sed 's/freecodecamp/f233C0d3C@mp' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/' name.txt
+sed 's/freecodecamp/f233C0d3C@mp/i' name.txt
