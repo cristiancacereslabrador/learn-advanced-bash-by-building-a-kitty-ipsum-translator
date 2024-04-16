@@ -92,3 +92,4 @@ echo $name
 echo $NAME
 CAT
 cat
+cat name.txt
