@@ -170,3 +170,8 @@ sed 's/r/2/' name.txt
 sed 'free/r/f233/' name.txt
 sed 'free/r/f233/' name.txt
 sed 's/free/f233/' name.txt
+__vsc_prompt_cmd_original
+sed 'sfreecodecamp/f233C0d3C@mp'' name.txt sed 'sfreecodecamp/f233C0d3C@mp'' name.txt
+sed 'sfreecodecamp/f233C0d3C@mp'' name.txt sed 's/freecodecamp/f233C0d3C@mp'' name.txt
+sed 's/freecodecamp/f233C0d3C@mp' name.txt
+sed 's/freecodecamp/f233C0d3C@mp/' name.txt
