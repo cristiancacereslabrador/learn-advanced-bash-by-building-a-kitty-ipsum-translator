@@ -96,3 +96,5 @@ cat name.txt
 cat < name.txt
 echo Cristian
 touch script.sh
+chmod +x
+chmod +x script.sh
