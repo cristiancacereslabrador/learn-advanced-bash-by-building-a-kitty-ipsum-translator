@@ -99,3 +99,4 @@ touch script.sh
 chmod +x
 chmod +x script.sh
 ./script.sh
+echo Cristian
