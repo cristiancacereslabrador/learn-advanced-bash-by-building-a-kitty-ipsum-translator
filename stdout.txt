@@ -1,1 +1,1 @@
-stdin
+Hello Cristian
