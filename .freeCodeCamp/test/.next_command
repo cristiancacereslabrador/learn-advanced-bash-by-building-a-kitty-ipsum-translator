@@ -80,3 +80,4 @@ bad_command 2> stderr.txt
 read NADME
 read NAME
 echo $NAME
+echo $NAME > stdout.txt
