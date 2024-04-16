@@ -143,3 +143,4 @@ wc -m < kitty_ipsum_1.txt >> kitty_info.txt
 grep 'meow' kitty_ipsum_1.txt
 help grep
 man grep
+grep 'meow' --color kitty_ipsum_1.txt
