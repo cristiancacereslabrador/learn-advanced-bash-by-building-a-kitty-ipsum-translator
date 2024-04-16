@@ -86,3 +86,4 @@ read NADME=next.txt
 read NADME < next.txt
 read NADME < name.txt
 read NAME < name.txt
+echo $NAME
