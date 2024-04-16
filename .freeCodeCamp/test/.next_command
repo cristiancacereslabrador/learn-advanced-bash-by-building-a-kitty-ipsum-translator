@@ -49,3 +49,4 @@ redirect > stdout.txt
 echo hello bash > stdout.txt
 hello bash >> stdout.txt
 echo hello bash >> stdout.txt
+echo hello bash > stdout.txt
