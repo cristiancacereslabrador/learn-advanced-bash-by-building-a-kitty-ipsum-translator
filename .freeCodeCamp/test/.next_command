@@ -56,3 +56,22 @@ bad_command > stderr.txt
 stderr > stderr.txt
 stderr > stderr.txt
 bad_command 2> stderr.txt
+echo helo bash > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+> stdout.txt
+echo hello bash > stdout.txt
+echo hello bash 1 > stdout.txt
+echo hello bash 1 > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+> stdout.txt
+> stdout.txt
+echo hello bash > stdout.txt
+__vsc_prompt_cmd_original
+echo hello bash > stdout.txt
+echo hello bash 1 >> stdout.txt
+echo hello bash 1 > stdout.txt
+echo hello bash > stdout.txt
+echo "hello bash 1" > stdout.txt
