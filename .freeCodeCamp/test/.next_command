@@ -165,3 +165,4 @@ echo -n "\nLines that they appear on:" >> kitty_info.txt
 grep -o 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 man grep
+cat name.txt
