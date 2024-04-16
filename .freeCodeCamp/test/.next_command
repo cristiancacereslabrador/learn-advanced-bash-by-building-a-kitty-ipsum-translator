@@ -146,3 +146,4 @@ man grep
 grep 'meow' --color kitty_ipsum_1.txt
 grep 'meow' --color -l kitty_ipsum_1.txt
 grep 'meow' --color -n kitty_ipsum_1.txt
+grep meow[a-z]* --color -n kitty_ipsum_1.txt
