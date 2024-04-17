@@ -322,3 +322,5 @@ grep -o 'cat[a-z]*' kitty_ipsum_1.txt
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
 echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep -n 'cat[a-z]*' kitty_ipsum_2.txt
+touch to create translate.sh
+touch translate.sh
