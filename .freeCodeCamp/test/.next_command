@@ -349,3 +349,5 @@ grep --color 'cat[a-z]*'
 ./translate.sh kitty_ipsum_2.txt
 ./translate.sh kitty_ipsum_1.txt > doggy_ipsum_1.txt
 cat doggy_ipsum_1.txt
+dif kitty_ipsum_1.txt doggy_ipsum_1.txt
+diff kitty_ipsum_1.txt doggy_ipsum_1.txt
