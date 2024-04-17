@@ -261,3 +261,9 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 grep -o 'cat[a-z]*' kitty_ipsum_1.txt
 grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -l 'cat[a-z]*' kitty_ipsum_1.txt
+grep -m 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+wc -o 'cat[a-z]*' kitty_ipsum_1.txt
+wc -l 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
