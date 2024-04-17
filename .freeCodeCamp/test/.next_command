@@ -279,3 +279,4 @@ sed -n 's/([0-9]+).*/\1/' kitty_ipsum_1.txt
 sed -e 's/([0-9]+).*/\1/' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'cat[a-z]*' kitty_ipsum_1.txt
+grep -n 'cat[a-z]*' kitty_ipsum_1.txt
